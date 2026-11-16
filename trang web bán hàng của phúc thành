@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Website của tôi</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            background: #e3f2fd;
+            padding: 50px;
+        }
+        h1 {
+            color: blue;
+        }
+        button {
+            background: blue;
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Xin chào mọi người!</h1>
+    <p>Đây là website đầu tiên của tôi trên GitHub.</p>
+    <button onclick="alert('Xin chào!')">
+        Nhấn vào đây
+    </button>
+</body>
+</html>
